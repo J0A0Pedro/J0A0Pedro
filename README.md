@@ -12,8 +12,8 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![semanticUI](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0a0pedro&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0pedro&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0a0pedro&theme=tokyonight)<br /><br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0pedro&theme=tokyonight)<br /><br />
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=j0a0pedro&show_icons=true&theme=tokyonight)
 
 
@@ -22,6 +22,16 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=Pokemon_card&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/j0a0pedro/controle-financeiro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=controle-financeiro&theme=tokyonight" />
+</a>
+  <br /><br />
+<a href="https://github.com/j0a0pedro/crud-task">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=crud-task&theme=tokyonight" />
+</a>
 
-
+<br /><br />
+<h3>Contato<h3>
+  
+  
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-pedro-b410a3252/)
