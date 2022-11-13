@@ -17,6 +17,10 @@
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=j0a0pedro&show_icons=true&theme=tokyonight)
 
 
+<hr />
+<a href="https://github.com/j0a0pedro/Pokemon_card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=Pokemon_card&theme=tokyonight" />
+</a>
 
 
 
