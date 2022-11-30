@@ -13,7 +13,7 @@
 ![semanticUI](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0a0pedro&theme=tokyonight)<br /><br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j0a0pedro&theme=tokyonight)<br /><br />
+<br /><br />
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=j0a0pedro&show_icons=true&theme=tokyonight)
 
 
@@ -35,3 +35,6 @@
   
   
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joao-pedro-b410a3252/)
+  
+  
+ 
