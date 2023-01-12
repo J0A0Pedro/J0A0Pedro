@@ -14,21 +14,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0a0pedro&theme=tokyonight)<br /><br />
 <br /><br />
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=j0a0pedro&show_icons=true&theme=tokyonight)
 
 
-<hr />
-<a href="https://github.com/j0a0pedro/Pokemon_card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=Pokemon_card&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/j0a0pedro/controle-financeiro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=controle-financeiro&theme=tokyonight" />
-</a>
-  <br /><br />
-<a href="https://github.com/j0a0pedro/crud-task">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=j0a0pedro&repo=crud-task&theme=tokyonight" />
-</a>
 
 <br /><br />
 <h3>Contato<h3>
