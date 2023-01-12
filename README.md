@@ -15,9 +15,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=j0a0pedro&theme=tokyonight)<br /><br />
 <br /><br />
 
-
-
-<br /><br />
 <h3>Contato<h3>
   
   
